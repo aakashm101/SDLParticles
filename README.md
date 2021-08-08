@@ -14,6 +14,6 @@ The particle simulation is implemented in C++ using a powerful open-source 2D gr
 
 The compiled binaries are provided in bin folder. Download the compiled binaries for:
 
-32-bit Operating Systems: [Download](https://github.com/aakashm101/SDLParticles/tree/main/bin/x86)
+32-bit binary and DLL for Windows: [Download](https://github.com/aakashm101/SDLParticles/tree/main/bin/x86)
 
-64-bit Operating Systems: [Download](https://github.com/aakashm101/SDLParticles/tree/main/bin/x64)
+64-bit binary and DLL for Windows: [Download](https://github.com/aakashm101/SDLParticles/tree/main/bin/x64)
