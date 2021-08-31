@@ -2,6 +2,7 @@
 
 The particle simulation is implemented in C++ using a powerful open-source 2D graphics library called SDL - Simple DirectMedia Layer (https://www.libsdl.org/). This project is to learn about the object oriented approach toward designing a simple particle simulation program based on the 'C++ for Complete Beginners' course by John Purcell (caveofprogramming.com).
 
+# Preview
 <img src="./resources/Particles.png">
 
 # Build Instructions
@@ -13,6 +14,6 @@ The particle simulation is implemented in C++ using a powerful open-source 2D gr
 ## Downloads:
 The compiled binaries are provided in bin folder. 
 
-32-bit binary and DLL for Windows: [Download](https://github.com/aakashm101/SDLParticles/tree/main/bin/x86)
+32-bit EXE and DLL for Windows: [Download](https://github.com/aakashm101/SDLParticles/tree/main/bin/x86)
 
-64-bit binary and DLL for Windows: [Download](https://github.com/aakashm101/SDLParticles/tree/main/bin/x64)
+64-bit EXE and DLL for Windows: [Download](https://github.com/aakashm101/SDLParticles/tree/main/bin/x64)
